@@ -1,0 +1,23 @@
+{
+  "name": "toscoyoghurt-v2",
+  "version": "2.0.0",
+  "description": "buy anything you want on toscoyoghurt online",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node backend/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tosinmoses384/toscoyoghurt-v2.git"
+  },
+  "author": "MOSES T.I",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tosinmoses384/toscoyoghurt-v2/issues"
+  },
+  "homepage": "https://github.com/tosinmoses384/toscoyoghurt-v2#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
